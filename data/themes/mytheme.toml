@@ -1,16 +1,16 @@
 # Theme metadata
-name = "Forest"
+name = "Dark"
 
 # Is theme light or dark?
-light = true
+light = false
 
 # Primary
 primary = "#4caf50"
 
 # Menu
-menu_primary = "#4caf50"
+menu_primary = "rgb(20, 22, 34)"
 menu_text = "rgba(255,255,255,0.6)"
-menu_text_active = "#1b5e20"
+menu_text_active = "#4caf50"
 menu_title = "#fff"
 
 # Home sections
