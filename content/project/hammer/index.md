@@ -1,12 +1,13 @@
 ---
 title: Hammer
-summary: Alienite is a space-based puzzle video game... but it's not like the normal puzzle games you're used to. In this game YOU are inside the puzzle. YOU move the pieces by hitting them. YOU place the pieces to fit by climbing on top of them. And if this were not enough, evil aliens will try to not achieve your goal.
+summary: Es tu principal herramienta, tu aventura empieza con él, usándolo puedes cambiar la disposición de los minerales mientras las rocas se mueven, desplazarlas hacia arriba y abajo y empujarlas.  Además podrás golpear con él a tus enemigos.
+
 tags:
 - Deep Learning
 date: "2019-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://alienite.netlify.app/"
+external_link: ""
 
 image:
   caption: Photo by rawpixel on Unsplash
