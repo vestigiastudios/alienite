@@ -50,4 +50,4 @@ subtitle = ""
  css_class = ""
 +++
 
-Has tenido un problema en pleno viaje espacial, tu nave ha quedado destrozada en un planeta de un sistema solar que no conoces. Descubres un inquietante mineral con fantásticas propiedades, al que llamas alienite, quizás puedas usarlo para regresar a casa, pero ¡un momento! ¡No estás solo! Los aliens no te van a dejar que te vayas así como así.  
+You have had a problem in the middle of a space travel and your ship has been destroyed on a planet in the solar system that you do not know. You discover a disturbing mineral with fantastic properties, which you call alienite... Perhaps you can use it to return home, but wait! You're not alone! The aliens are not going to let you go just like that.

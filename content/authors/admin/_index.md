@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Puzzle game
+role: Get inside the puzzle
 
 # Organizations/Affiliations
 organizations:
