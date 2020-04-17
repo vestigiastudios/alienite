@@ -50,7 +50,5 @@ subtitle = ""
  css_class = ""
 +++
 
-Para reparar tu nave y escapar del planeta emplearas el mineral,  Alienite. Tras montar todo un sistema de maquinaria de recolección, los trozos de roca en los que se encuentra el mineral irán desplazándose hacia el imán.  Tu labor será juntar el mineral en combinaciones de tres o más trozos del mismo color de forma horizontal, vertical o diagonal para que así la máquina pueda procesarlo. Es tu única salida pero si no eres capaz de procesar el mineral la maquina colapsara y !morirás!
-El polvo de mineral obtenido es extremadamente valioso, podrás usarlo para crear nuevos objetos que te ayuden, desbloquear coleccionables y, lo más importante, ¡reconstruir tu nave y escapar antes de que las cosas se pongan feas! 
-Tu integridad física es importante, no dejes que los aliens acaben contigo, la cantidad de veces que te pueden golpear es limitada, así como la cantidad de energía que emplea tu jet pack para volar y alcanzar las piezas.
-Los sensores de tu traje te avisarán de la próxima roca en llegar y un avanzado sistema detección te informara en qué lugar va a impactar la pieza. Pero no todo funcionará como esperas, el imán funcionara cada vez de manera más inestable, aumentando la velocidad con la que se desplazan las rocas.
+
+Has tenido un problema en pleno viaje espacial, tu nave ha quedado destrozada en un planeta de un sistema solar que no conoces. Descubres un inquietante mineral con fantásticas propiedades, al que llamas alienite, quizás puedas usarlo para regresar a casa, pero ¡un momento! ¡No estás solo! Los aliens no te van a dejar que te vayas así como así.  

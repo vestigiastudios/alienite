@@ -50,23 +50,5 @@ subtitle = ""
  css_class = ""
 +++
 
-Has establecido un taller en lo que queda de tu maltrecha nave donde convertir el preciado mineral en objetos útiles.
 
-Martillo  Es tu principal herramienta, tu aventura empieza con él, usándolo puedes cambiar la disposición de los minerales mientras las rocas se mueven, desplazarlas hacia arriba y abajo y empujarlas.  Además podrás golpear con él a tus enemigos.
-
-Dinamita  Un explosivo potente, destrozará lo que tenga a su alrededor.
-
-Pistola Una potente arma laser con la que enfrentarte a los aliens más feroces. Su munición es limitada, ¡úsala con cabeza!.
-
-Munición  Podrás crear más munición una vez tengas creada tu arma ¡pero no la desperdicies!
-
-Carretilla   La carretilla te posibilita destruir una fila de minerales si tu situación es delicada.
-
-Pala   La pala hará desaparecer la columna de minerales que escojas facilitando tu misión.  
-
-Reloj de bolsillo ¿Necesitas tiempo para pensar? ¡Para el tiempo y planea tus próximos movimientos! ¡Rápido!
-
-Whisky  Un trago de bebida casera, sus efectos te harán invulnerable durante un tiempo a los ataques de los extraterrestres.
-
-Chocolatina  Un tentempié para reponer fuerzas, restaura un punto de vida.
-Pesa  ¡Ponte cachas! Mejora tu salud.
+Has tenido un problema en pleno viaje espacial, tu nave ha quedado destrozada en un planeta de un sistema solar que no conoces. Descubres un inquietante mineral con fantásticas propiedades, al que llamas alienite, quizás puedas usarlo para regresar a casa, pero ¡un momento! ¡No estás solo! Los aliens no te van a dejar que te vayas así como así.  
