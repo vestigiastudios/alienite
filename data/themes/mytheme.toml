@@ -9,7 +9,7 @@ primary = "#4caf50"
 
 # Menu
 menu_primary = "#4caf50"
-menu_text = "#fff"
+menu_text = "rgba(255,255,255,0.6)"
 menu_text_active = "#1b5e20"
 menu_title = "#fff"
 
