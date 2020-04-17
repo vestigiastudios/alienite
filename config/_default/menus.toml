@@ -5,32 +5,32 @@
   
 [[main]]
   name = "Story"
-  url = "#skills"
+  url = "#story"
   weight = 10
 
 [[main]]
   name = "Mechanics"
-  url = "#experience"
+  url = "#mechanics"
   weight = 20
   
   [[main]]
   name = "Items"
-  url = "#about"
+  url = "#items"
   weight = 30
   
   [[main]]
   name = "Boss battles"
-  url = "#about"
+  url = "#boss"
   weight = 40
   
     [[main]]
   name = "Game modes"
-  url = "#about"
+  url = "#modes"
   weight = 50
 
     [[main]]
   name = "Challenges"
-  url = "#about"
+  url = "#Challenges"
   weight = 60
   
 #[[main]]
