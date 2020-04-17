@@ -61,7 +61,7 @@ bio: Alienite game.
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+#email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -70,4 +70,4 @@ email: ""
 #- Visitors
 ---
 
-Astronauta, sube a tu nave y embárcate en una maravillosa aventura espacial. Alienite, un juego de puzle donde TÚ estás dentro del puzle. Prepárate para recolectar cientos de minerales haciendo combinaciones al más puro estilo retro y enfrentarte a enemigos mientras lo haces como nunca se ha visto. 
+Astronaut, get on your ship and embark on a wonderful space adventure. Alienite, a puzzle game where YOU are inside the puzzle. Get ready to collect hundreds of minerals making combinations in the purest retro style and face enemies that will make your task as difficult as possible.
