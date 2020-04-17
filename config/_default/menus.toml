@@ -5,17 +5,17 @@
   
 [[main]]
   name = "Story"
-  url = "#about"
+  url = "#skills"
   weight = 10
 
 [[main]]
   name = "Mechanics"
-  url = "#skills"
+  url = "#experience"
   weight = 20
   
   [[main]]
   name = "Items"
-  url = "#experience"
+  url = "#about"
   weight = 30
   
   [[main]]
