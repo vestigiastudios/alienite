@@ -50,4 +50,8 @@ subtitle = ""
  css_class = ""
 +++
 
-You have had a problem in the middle of a space travel and your ship has been destroyed on a planet in the solar system that you do not know. You discover a disturbing mineral with fantastic properties, which you call alienite... Perhaps you can use it to return home, but wait! You're not alone! The aliens are not going to let you go just like that.
+You have had a problem in the middle of a space travel and your ship has been destroyed on a planet in the solar system that you do not know.
+
+You discover a disturbing mineral with fantastic properties, which you call alienite. Perhaps you can use it to return home...
+
+Wait! You're not alone! The aliens are not going to let you go just like that.
