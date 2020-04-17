@@ -11,27 +11,27 @@
 [[main]]
   name = "Mechanics"
   url = "#about"
-  weight = 10
+  weight = 20
   
   [[main]]
   name = "Items"
   url = "#about"
-  weight = 10
+  weight = 30
   
   [[main]]
   name = "Boss battles"
   url = "#about"
-  weight = 10
+  weight = 40
   
     [[main]]
   name = "Game modes"
   url = "#about"
-  weight = 10
+  weight = 50
 
     [[main]]
   name = "Challenges"
   url = "#about"
-  weight = 10
+  weight = 60
   
 #[[main]]
 #  name = ""
