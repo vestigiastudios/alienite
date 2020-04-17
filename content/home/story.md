@@ -50,16 +50,4 @@ subtitle = ""
  css_class = ""
 +++
 
-Welcome to the **personal demo** of Academic. Other demos available include:
-
-- [**Project Demo** (Academic's actual site)](https://sourcethemes.com/academic/)
-
-**Over 100,000 [Amazing Websites](https://sourcethemes.com/academic/#expo) have Already Been Built with Academic**
-
-**[Join](https://sourcethemes.com/academic/docs/install/) the Most Empowered Hugo Community**
-
-{{% alert note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
-
-Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
-{{% /alert %}}
+Has tenido un problema en pleno viaje espacial, tu nave ha quedado destrozada en un planeta de un sistema solar que no conoces. Descubres un inquietante mineral con fantásticas propiedades, al que llamas alienite, quizás puedas usarlo para regresar a casa, pero ¡un momento! ¡No estás solo! Los aliens no te van a dejar que te vayas así como así.  
