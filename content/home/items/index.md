@@ -49,7 +49,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
  
- gallery_item:
+ [gallery_item]
 - album: album
   image: 1.png
   caption: Write your image caption here
