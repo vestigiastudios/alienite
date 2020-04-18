@@ -53,7 +53,6 @@ subtitle = ""
 - album: album
   image: 1.png
   caption: Write your image caption here
-- album: album
   image: 2.jpg
   caption: Write your image caption here
 +++
