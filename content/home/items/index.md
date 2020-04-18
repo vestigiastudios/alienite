@@ -60,12 +60,12 @@ You have set up a workshop in the remainder of your battered ship where you can 
 |  |  |
 | --- | --- |
 | {{< figure library="true" src="featured.jpg" title="**Hammer**" lightbox="true" width=100 >}}  | It is your main tool, your adventure begins with it, using it you can change the arrangement of the minerals while the rocks move, move them up and down and push them. You can also hit your enemies with it.|
-| {{< figure library="true" src="featured.jpg" title="Dynamite" lightbox="true" width=100 >}}  | A powerful explosive, will destroy everything around you.|
-| {{< figure library="true" src="featured.jpg" title="Pistol" lightbox="true" width=100 >}}  | A powerful laser weapon with which to face the fiercest aliens. Your ammunition is limited, use it with your head!|
-| {{< figure library="true" src="featured.jpg" title="Ammunition" lightbox="true" width=100 >}}  | You can create more ammunition once you have created your weapon, but don't waste it!|
-| {{< figure library="true" src="featured.jpg" title="Wheelbarrow" lightbox="true" width=100 >}}  | The wheelbarrow enables you to destroy a row of minerals if your situation is delicate.|
-| {{< figure library="true" src="featured.jpg" title="Shovel" lightbox="true" width=100 >}}  | The shovel will make the column of minerals you choose disappear facilitating your mission.|
-| {{< figure library="true" src="featured.jpg" title="Pocket watch" lightbox="true" width=100 >}}  | Do you need time to think? Stop the time and plan your next moves! Quick!|
-| {{< figure library="true" src="featured.jpg" title="Whiskey" lightbox="true" width=100 >}}  | A drink of homemade drink, its effects will make you invulnerable for a time to the attacks of aliens.|
-| {{< figure library="true" src="featured.jpg" title="Chocolate bar" lightbox="true" width=100 >}}  | A snack to regain strength, restores a point of life.|
-| {{< figure library="true" src="featured.jpg" title="Weigh" lightbox="true" width=100 >}}  | Get hunk! Improve your health.|
+| {{< figure library="true" src="featured.jpg" title="**Dynamite**" lightbox="true" width=100 >}}  | A powerful explosive, will destroy everything around you.|
+| {{< figure library="true" src="featured.jpg" title="**Pistol**" lightbox="true" width=100 >}}  | A powerful laser weapon with which to face the fiercest aliens. Your ammunition is limited, use it with your head!|
+| {{< figure library="true" src="featured.jpg" title="**Ammunition**" lightbox="true" width=100 >}}  | You can create more ammunition once you have created your weapon, but don't waste it!|
+| {{< figure library="true" src="featured.jpg" title="**Wheelbarrow**" lightbox="true" width=100 >}}  | The wheelbarrow enables you to destroy a row of minerals if your situation is delicate.|
+| {{< figure library="true" src="featured.jpg" title="**Shovel**" lightbox="true" width=100 >}}  | The shovel will make the column of minerals you choose disappear facilitating your mission.|
+| {{< figure library="true" src="featured.jpg" title="**Pocket watch**" lightbox="true" width=100 >}}  | Do you need time to think? Stop the time and plan your next moves! Quick!|
+| {{< figure library="true" src="featured.jpg" title="**Whiskey**" lightbox="true" width=100 >}}  | A drink of homemade drink, its effects will make you invulnerable for a time to the attacks of aliens.|
+| {{< figure library="true" src="featured.jpg" title="**Chocolate bar**" lightbox="true" width=100 >}}  | A snack to regain strength, restores a point of life.|
+| {{< figure library="true" src="featured.jpg" title="**Weight**" lightbox="true" width=100 >}}  | Get hunk! Improve your health.|
