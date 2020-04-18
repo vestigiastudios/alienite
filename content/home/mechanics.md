@@ -50,7 +50,9 @@ subtitle = ""
  css_class = ""
 +++
 
-To repair your ship and escape the planet you will use the mineral, Alienite. After mounting a whole system of collection machinery, the pieces of rock in which the mineral is found will move towards the magnet.
+To repair your ship and escape the planet you will use the mineral, Alienite.
+
+After mounting a whole system of collection machinery, the pieces of rock in which the mineral is found will move towards the magnet.
 
 Your task will be to gather the mineral in combinations of three or more pieces of the same color horizontally, vertically or diagonally so that the machine can process it. It is your only way out but if you are not able to process the mineral the machine will collapse and you will die!
 
