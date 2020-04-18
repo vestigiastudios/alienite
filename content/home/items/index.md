@@ -52,7 +52,4 @@ subtitle = ""
 
 Has establecido un taller en lo que queda de tu maltrecha nave donde convertir el preciado mineral en objetos útiles.
 
-|           	    |			                     |
-| ------------------| ------------------------------ |
-| {{< figure library="true" src="featured.jpg" title="A caption" lightbox="true" >}}           | Build your website.            |
-| `hugo serve -w`   | View your website.             |
+{{< gallery album="<album>" >}}
