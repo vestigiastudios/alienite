@@ -44,7 +44,7 @@ subtitle = ""
 
 [advanced]
  # Custom CSS. 
- css_style = "customCSS.css"
+ css_style = ""
  
  # CSS class.
  css_class = ""
@@ -59,5 +59,5 @@ Has establecido un taller en lo que queda de tu maltrecha nave donde convertir e
 
 | Command | Description |
 | --- | --- |
-| {{< figure library="true" src="featured.jpg" title="A caption" lightbox="true" >}}  | Build your website.|
+| {{< figure library="true" src="featured.jpg" title="A caption" lightbox="true" width=100 >}}  | Build your website.|
 | `hugo serve -w` | View your website. |
