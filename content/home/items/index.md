@@ -57,6 +57,7 @@ caption= "Write your image caption here"
 
 You have set up a workshop in the remainder of your battered ship where you can turn precious mineral into useful items.
 
+|  |  |
 | --- | --- |
 | {{< figure library="true" src="featured.jpg" title="Hammer" lightbox="true" width=100 >}}  | It is your main tool, your adventure begins with it, using it you can change the arrangement of the minerals while the rocks move, move them up and down and push them. You can also hit your enemies with it.|
 | {{< figure library="true" src="featured.jpg" title="Dynamite" lightbox="true" width=100 >}}  | A powerful explosive, will destroy everything around you.|
