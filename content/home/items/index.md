@@ -56,7 +56,3 @@ caption= "Write your image caption here"
 +++
 
 Has establecido un taller en lo que queda de tu maltrecha nave donde convertir el preciado mineral en objetos útiles.
-| Command           			| Description                    |
-| ----------------------------- | ------------------------------ |
-| {{< gallery album="album" >}} | Build your website.            |
-| `hugo serve -w`   			| View your website.             |
