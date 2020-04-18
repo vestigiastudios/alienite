@@ -52,4 +52,4 @@ subtitle = ""
 
 Has establecido un taller en lo que queda de tu maltrecha nave donde convertir el preciado mineral en objetos útiles.
 
-{{< gallery album="<album>" >}}
+{{< gallery album="album" >}}
