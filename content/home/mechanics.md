@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-To repair your ship and escape the planet you will use the mineral, Alienite.
+In order to repair your ship and escape the planet you will use the alien mineral: Alienite.
 
 After mounting a whole system of collection machinery, the pieces of rock in which the mineral is found will move towards the magnet.
 
