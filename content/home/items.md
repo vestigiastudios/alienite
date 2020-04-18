@@ -11,6 +11,8 @@ weight = 13  # Order that this section will appear.
 title = "Items"
 subtitle = ""
 
+folder = "items"
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
@@ -51,8 +53,3 @@ subtitle = ""
 +++
 
 Has establecido un taller en lo que queda de tu maltrecha nave donde convertir el preciado mineral en objetos útiles.
-
-|           	    |			                     |
-| ------------------| ------------------------------ |
-| {{< figure library="true" src="featured.jpg" title="A caption" lightbox="true" >}}           | Build your website.            |
-| `hugo serve -w`   | View your website.             |
