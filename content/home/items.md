@@ -8,13 +8,13 @@ weight = 13  # Order that this section will appear.
 title = "Items"
 subtitle = ""
 
+folder = "items/"
+
 [content]
 
   # Page type to display. E.g. project.
   page_type = "project"
-  
-   folder = "items/"
-  
+   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
   # To show all items, set `tag` to "*".
