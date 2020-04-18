@@ -48,6 +48,14 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+ 
+ gallery_item:
+- album: album
+  image: 1.png
+  caption: Write your image caption here
+- album: album
+  image: 2.jpg
+  caption: Write your image caption here
 +++
 
 Has establecido un taller en lo que queda de tu maltrecha nave donde convertir el preciado mineral en objetos útiles.
