@@ -59,5 +59,5 @@ Has establecido un taller en lo que queda de tu maltrecha nave donde convertir e
 
 | Command | Description |
 | --- | --- |
-| {{< figure src="1.png" title="A caption" lightbox="true" >}}   | Build your website.|
+| {{< figure library="true" src="featured.jpg" title="A caption" lightbox="true" >}}  | Build your website.|
 | `hugo serve -w` | View your website. |
