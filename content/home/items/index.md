@@ -55,10 +55,9 @@ image= "1.png"
 caption= "Write your image caption here"
 +++
 
-You have set up a workshop in the remainder of your battered ship where you can turn precious mineral into useful items.
+Has establecido un taller en lo que queda de tu maltrecha nave donde convertir el preciado mineral en objetos útiles.
 
-| Item | Description |
+| Command | Description |
 | --- | --- |
-| {{< figure library="true" src="featured.jpg" title = "Hammer" lightbox="true" width=100 >}}  | It is your main tool, your adventure begins with it, using it you can change the arrangement of the minerals while the rocks move, move them up and down and push them. You can also hit your enemies with it.|
-| {{< figure library="true" src="featured.jpg" title = "Hammer" lightbox="true" width=100 >}}  | It is your main tool, your adventure begins with it, using it you can change the arrangement of the minerals while the rocks move, move them up and down and push them. You can also hit your enemies with it.|
-| {{< figure library="true" src="featured.jpg" title = "Hammer" lightbox="true" width=100 >}}  | It is your main tool, your adventure begins with it, using it you can change the arrangement of the minerals while the rocks move, move them up and down and push them. You can also hit your enemies with it.|
+| {{< figure library="true" src="featured.jpg" title="A caption" lightbox="true" width=100 >}}  | Build your website.|
+| `hugo serve -w` | View your website. |
