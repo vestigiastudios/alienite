@@ -14,11 +14,6 @@ subtitle = ""
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
-  
-  [[item]]
-  title = "Hello"
-  content = "I am center aligned :smile:"
-  align = "center"  # Choose `center`, `left`, or `right`.
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -61,3 +56,7 @@ caption= "Write your image caption here"
 +++
 
 Has establecido un taller en lo que queda de tu maltrecha nave donde convertir el preciado mineral en objetos útiles.
+| Command           			| Description                    |
+| ----------------------------- | ------------------------------ |
+| {{< figure src="/img/mypic.png" class="img-lg">}} | Build your website.            |
+| `hugo serve -w`   			| View your website.             |
