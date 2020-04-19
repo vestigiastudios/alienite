@@ -50,4 +50,4 @@ subtitle = ""
  css_class = ""
 +++
 
-Has tenido un problema en pleno viaje espacial, tu nave ha quedado destrozada en un planeta de un sistema solar que no conoces. Descubres un inquietante mineral con fantásticas propiedades, al que llamas alienite, quizás puedas usarlo para regresar a casa, pero ¡un momento! ¡No estás solo! Los aliens no te van a dejar que te vayas así como así.  
+The inhabitants of the planets you visit love to eat human breakfast, they will try to finish you if you leave them. Also on each planet you will find a final boss. The final bosses will be characteristic of a specific planet and will use different techniques to prevent you from running away. You will have to find out how to defeat them!

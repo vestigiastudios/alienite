@@ -50,4 +50,14 @@ subtitle = ""
  css_class = ""
 +++
 
-Has tenido un problema en pleno viaje espacial, tu nave ha quedado destrozada en un planeta de un sistema solar que no conoces. Descubres un inquietante mineral con fantásticas propiedades, al que llamas alienite, quizás puedas usarlo para regresar a casa, pero ¡un momento! ¡No estás solo! Los aliens no te van a dejar que te vayas así como así.  
+1. History mode
+An adventure, ten planets to run away from, will you return home?
+
+2. 2 player local multiplayer mode
+Live this adventure with a friend or family member.
+
+3. Enemy-free mode
+Mode in which no enemies will appear, you will only have to make combinations. What will be your final score? (Also available for 2 players)
+
+4. Versus mode
+Take on a friend in a completely different arrangement than the normal game, you have fallen into craters, the gap is vertical, the pieces will come from above.

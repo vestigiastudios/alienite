@@ -50,4 +50,6 @@ subtitle = ""
  css_class = ""
 +++
 
-Has tenido un problema en pleno viaje espacial, tu nave ha quedado destrozada en un planeta de un sistema solar que no conoces. Descubres un inquietante mineral con fantásticas propiedades, al que llamas alienite, quizás puedas usarlo para regresar a casa, pero ¡un momento! ¡No estás solo! Los aliens no te van a dejar que te vayas así como así.  
+The game has a classification in the purest arcade style, stamp your three letters as in the past to go down in history as number one.
+
+For those who like strong challenges we will also include a system of achievements and collectibles. Will you achieve 100%?
