@@ -50,6 +50,6 @@ subtitle = ""
  css_class = ""
 +++
 
-The game has a classification in the purest arcade style, stamp your three letters as in the past to go down in history as number one.
+The game has a classification in the purest arcade style. Stamp your three letters as in the past to go down in history as number one.
 
 For those who like strong challenges we will also include a system of achievements and collectibles. Will you achieve 100%?
