@@ -50,14 +50,13 @@ subtitle = ""
  css_class = ""
 +++
 
-1. History mode
-An adventure, ten planets to run away from, will you return home?
-
-2. 2 player local multiplayer mode
-Live this adventure with a friend or family member.
-
-3. Enemy-free mode
-Mode in which no enemies will appear, you will only have to make combinations. What will be your final score? (Also available for 2 players)
-
-4. Versus mode
-Take on a friend in a completely different arrangement than the normal game, you have fallen into craters, the gap is vertical, the pieces will come from above.
+|  |
+| --- |
+|**History mode**
+An adventure, ten planets to run away from, will you return home?|
+|**2 player local multiplayer mode**
+Live this adventure with a friend or family member.|
+|**Enemy-free mode**
+Mode in which no enemies will appear, you will only have to make combinations. What will be your final score? (Also available for 2 players)|
+|**Versus mode**
+Take on a friend in a completely different arrangement than the normal game, you have fallen into craters, the gap is vertical, the pieces will come from above.|
