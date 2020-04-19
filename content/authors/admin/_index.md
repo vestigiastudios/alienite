@@ -72,6 +72,6 @@ bio: Alienite game.
 
 Astronaut, get on your ship and embark on a wonderful space adventure.
 
-Alienite, a puzzle game where YOU are inside the puzzle.
+Alienite, a puzzle game where YOU are INSIDE the puzzle.
 
 Get ready to collect hundreds of minerals making combinations in the purest retro style and face enemies that will make your task as difficult as possible.
