@@ -50,14 +50,14 @@ subtitle = ""
  css_class = ""
 +++
 
-In order to repair your ship and escape the planet you will use the alien mineral: Alienite.
+In order to repair your ship and escape the planet you use the alien mineral: alienite.
 
-After mounting a whole system of collection machinery, the pieces of rock in which the mineral is found will move towards the magnet.
+After mounting a whole system of collection machinery, the pieces of rock in which the mineral is found will move towards a giant magnet.
 
-Your task will be to gather the mineral in combinations of three or more pieces of the same color horizontally, vertically or diagonally so that the machine can process it. It is your only way out but if you are not able to process the mineral the machine will collapse and you will die!
+Your task is to gather the mineral in combinations of three or more pieces of the same color horizontally, vertically or diagonally so that the machine can process it. It is your only way out but, if you are not able to process the mineral, the machine will collapse and you will die!
 
-The ore dust obtained is extremely valuable, you can use it to create new items to help you, unlock collectibles and most importantly rebuild your ship and escape before things get ugly!
+The mineral dust obtained is extremely valuable: you can use it to create new items to help you, unlock collectibles and, most importantly, rebuild your ship and escape before things get ugly!
 
-Your physical integrity is important, do not let the aliens destroy you, the number of times they can hit you is limited, as well as the amount of energy your jet pack uses to fly and reach the pieces.
+Your physical integrity is also important: do not let the aliens destroy you. The number of times they can hit you is limited, as well as the amount of energy your jet pack uses to fly and reach the mineral pieces to manipulate them.
 
-The sensors of your suit will warn you of the next rock to arrive and an advanced detection system will inform you where the piece will impact. But not everything will work as you expect, the magnet will work more and more unstably, increasing the speed with which the rocks move.
+The sensors of your space suit warn you of the next mineral piece to arrive and an advanced detection system informs you where the piece will impact. However, everything will not work as you expect... the magnet will work more and more unstably, increasing the speed with which the mineral pieces move.

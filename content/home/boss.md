@@ -50,6 +50,6 @@ subtitle = ""
  css_class = ""
 +++
 
-The inhabitants of the planets you visit love to eat human breakfast, they will try to finish you if you leave them.
+The aliens of the planets you visit love to eat "human breakfast": they will try to finish you if you leave them.
 
-Also on each planet you will find a final boss. The final bosses will be characteristic of a specific planet and will use different techniques to prevent you from running away. You will have to find out how to defeat them!
+Moreover, you will find a final boss on each planet. The final bosses are characteristic of a specific planet and use different techniques to prevent you from running away. You will have to find out how to defeat them!
