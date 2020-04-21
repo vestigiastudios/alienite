@@ -65,7 +65,7 @@ You have set up a workshop in the remainder of your battered ship where you can 
 | {{< figure library="true" src="bulletbox.png" title="**Ammunition**" lightbox="true" width=100 >}}  | You can create more ammunition once you have created your weapon, but don't waste it!|
 | {{< figure library="true" src="carretilla.png" title="**Wheelbarrow**" lightbox="true" width=100 >}}  | The wheelbarrow enables you to destroy a row of minerals if your situation is delicate.|
 | {{< figure library="true" src="shovel.png" title="**Shovel**" lightbox="true" width=100 >}}  | The shovel will make the column of minerals you choose disappear facilitating your mission.|
-| {{< figure library="true" src="featured.jpg" title="**Pocket watch**" lightbox="true" width=100 >}}  | Do you need time to think? Stop the time and plan your next moves! Quick!|
+| {{< figure library="true" src="clock.png" title="**Pocket watch**" lightbox="true" width=100 >}}  | Do you need time to think? Stop the time and plan your next moves! Quick!|
 | {{< figure library="true" src="whysky.png" title="**Whisky**" lightbox="true" width=100 >}}  | A drink of homemade drink, its effects will make you invulnerable for a time to the attacks of aliens.|
 | {{< figure library="true" src="chocolate.png" title="**Chocolate bar**" lightbox="true" width=100 >}}  | A snack to regain strength, restores a point of life.|
 | {{< figure library="true" src="Pesa.png" title="**Weight**" lightbox="true" width=100 >}}  | Get hunk! Improve your health.|
