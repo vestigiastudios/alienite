@@ -59,7 +59,7 @@ You have set up a workshop in the remainder of your battered ship where you can 
 
 |  |  |
 | --- | --- |
-| {{< figure library="true" src="featured.jpg" title="**Hammer**" lightbox="true" width=100 >}}  | It is your main tool, your adventure begins with it, using it you can change the arrangement of the minerals while the rocks move, move them up and down and push them. You can also hit your enemies with it.|
+| {{< figure library="true" src="hammer.png" title="**Hammer**" lightbox="true" width=100 >}}  | It is your main tool, your adventure begins with it, using it you can change the arrangement of the minerals while the rocks move, move them up and down and push them. You can also hit your enemies with it.|
 | {{< figure library="true" src="dynamite.png" title="**Dynamite**" lightbox="true" width=100 >}}  | A powerful explosive, will destroy everything around you.|
 | {{< figure library="true" src="gun.png" title="**Pistol**" lightbox="true" width=100 >}}  | A powerful laser weapon with which to face the fiercest aliens. Your ammunition is limited, use it with your head!|
 | {{< figure library="true" src="bulletbox.png" title="**Ammunition**" lightbox="true" width=100 >}}  | You can create more ammunition once you have created your weapon, but don't waste it!|
